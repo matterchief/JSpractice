@@ -1,0 +1,16 @@
+.button{
+    Height: 100px; 
+    width: 500px;
+    background-color: rgba(252, 225, 54, 0.597); 
+   border:2px solid #e2298c; 
+   color: #e2298c;
+   font-size: 22px;
+
+
+}
+
+#demo{
+    font-size: 25px;
+    color: black; 
+    font-weight: 900;
+}
