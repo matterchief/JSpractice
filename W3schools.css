@@ -5,12 +5,20 @@
    border:2px solid #e2298c; 
    color: #e2298c;
    font-size: 22px;
+    border-radius: 20px;
 
+}
+.button:hover{
+    background-color: rgba(116, 103, 20, 0.597); 
+    border:3px solid #ad065f; 
+    color: #ad065f;
+    font-size: 23px;
+    border-radius: 0;
 
 }
 
 #demo{
     font-size: 25px;
-    color: black; 
+    color: rgb(8, 6, 6); 
     font-weight: 900;
 }
